@@ -1,0 +1,35 @@
+body {
+    font-family: 'Source Code Pro', monospace;
+    
+}
+
+.navbar {
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+}
+
+#showcase {
+     background: transparent url("/images/main_image.png") center / cover no-repeat border-box;
+     min-height: 100%;
+     opacity: 100%;
+}
+
+  #map {
+    position: relative;
+    top: 210px;
+    right: 50px;
+    overflow: hidden;
+}
+
+#app {
+    margin-top: 160px;
+}
+h1 {
+    letter-spacing: 8px;
+}
+
+h3 {
+    letter-spacing: 8px;
+}
